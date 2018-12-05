@@ -43,4 +43,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
-
+// https://rshankar.com/optional-bindings-in-swift/
